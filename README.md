@@ -8,4 +8,6 @@ The actual step by step implementation is in the article I have written in the b
 - Link to Article and Video:
 
 # IMPORTANT
-The code provided here is on an as is basis. The author of the code is not responsbile for any kind of loss or damage caused by the use of this code. Whoever wishes to use the code must exercise caution and perform the necessary due diligence while using the code shown.
+AMARANTHINE © 2015
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
