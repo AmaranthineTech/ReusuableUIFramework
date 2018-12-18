@@ -1,0 +1,11 @@
+framework module UIVIdentityCard {
+  umbrella header "UIVIdentityCard.h"
+
+  export *
+  module * { export * }
+}
+
+module UIVIdentityCard.Swift {
+    header "UIVIdentityCard-Swift.h"
+    requires objc
+}
